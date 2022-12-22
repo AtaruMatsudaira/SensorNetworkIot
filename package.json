@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "node-red": "^3.0.2"
+  },
+  "scripts": {
+    "start": "node node_modules/node-red/red.js"
+  }
+}
